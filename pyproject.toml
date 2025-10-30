@@ -1,0 +1,6 @@
+[project]
+name = "trabalho-locacao"
+version = "0.1.0"
+
+[dependency-groups]
+dev = ["pytest>=8.4.2"]
